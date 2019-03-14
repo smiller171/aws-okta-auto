@@ -7,7 +7,7 @@ automatically log into aws with aws-okta
 fisher add smiller171/aws-okta-auto
 ```
 
-### bash
+### bash/zsh
 ```bash
 git clone https://github.com/smiller171/aws-okta-auto.git
 echo "eval $(pwd)/aws-okta-auto/aws_okta_login.sh" >> ~/.bash_profile
