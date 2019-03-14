@@ -18,3 +18,6 @@ echo "eval $(pwd)/aws-okta-auto/aws_okta_login.sh" >> ~/.bash_profile
 aws_okta_login ${profile-name}
 aws s3 ls
 ```
+
+## Fish Prompt
+Add `(_okta_aws_prompt)` to your prompt wherever you'd like it to appear
