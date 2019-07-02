@@ -1,6 +1,9 @@
 # aws-okta-auto
 automatically log into aws with aws-okta
 
+## Dependencies
+* jq (for credential_process config)
+
 ## Installation
 ### fish
 ```fish
